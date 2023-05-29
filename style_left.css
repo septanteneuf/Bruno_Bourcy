@@ -1,20 +1,21 @@
 /* ---------- PICTURE */
 
 #round_picture {
-    border-radius: 50%;
-    height: 200px;
-    margin-top: 75px;
-    margin-left: 75px;
-    box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
+	border-radius: 50%;
+	height: 200px;
+	margin-top: 75px;
+	margin-left: 75px;
+	box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.5);
 }
 
 
 /* ---------- CONTACT */
 
 #contact_area {
-    height: 320px;
-    margin-top: 30px;
+	height: 320px;
+	margin-top: 30px;
 }
+
 .phone-number {
 	cursor: default;
 }
@@ -22,40 +23,40 @@
 /* ---------- PERSONALITY */
 
 #personality_area {
-    height: 150px;
-    margin-top: 60px;
+	height: 150px;
+	margin-top: 60px;
 }
 
 .note_personality_area {
-    float: left;
-    display: flex;
-    width: 300px;
-    height: 30px;
+	float: left;
+	display: flex;
+	width: 300px;
+	height: 30px;
 }
 
 .text_personality_area {
-    float: left;
-    width: 300px;
+	float: left;
+	width: 300px;
 }
 
 /* ---------- CENTER OF INTEREST */
 
 #interest_area {
-    height: 220px;
-    margin-top: 40px;
+	height: 220px;
+	margin-top: 40px;
 }
 
 .interest_zone {
-    height: 50px;
+	height: 50px;
 }
 
 /* ---------- VOLUNTEERIING */
 
 #volunteering_area {
-    height: 150px;
-    margin-top: 80px;
+	height: 150px;
+	margin-top: 30px;
 }
 
 .left_volunteering_area {
-    padding-left: 20px;
+	padding-left: 20px;
 }
