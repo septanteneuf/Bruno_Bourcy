@@ -16,13 +16,13 @@ body {
 	margin: auto;
 	margin-top: 100px;
 	margin-bottom: 100px;
-	height: 1500px;
+	height: 1800px;
 	width: 1080px;
 }
 
 /* ---------- all div elements in the main area = left-area and right-area*/
 #main_area>div {
-	height: 1500px;
+	height: 1800px;
 }
 
 /* ---------- main area in the page */
