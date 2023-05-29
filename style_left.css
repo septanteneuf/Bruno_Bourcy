@@ -23,7 +23,7 @@
 /* ---------- PERSONALITY */
 
 #personality_area {
-	height: 150px;
+	height: 160px;
 	margin-top: 60px;
 }
 
@@ -42,7 +42,7 @@
 /* ---------- CENTER OF INTEREST */
 
 #interest_area {
-	height: 220px;
+	height: 200px;
 	margin-top: 40px;
 }
 
@@ -54,7 +54,7 @@
 
 #volunteering_area {
 	height: 150px;
-	margin-top: 30px;
+	margin-top: 10px;
 }
 
 .left_volunteering_area {
