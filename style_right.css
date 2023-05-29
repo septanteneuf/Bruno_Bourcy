@@ -72,12 +72,18 @@
 /* ---------- ACHIVEMENTS */
 
 #achievements_area {
-	height: 150px;
+	height: 200px;
+}
+
+.text_achievements_area a {
+	text-decoration: none;
+	color: black;
 }
 
 .text_achievements_area {
 	float: left;
 	width: 600px;
+
 }
 
 .note_achievements_area {
@@ -86,9 +92,10 @@
 	width: 600px;
 	height: 30px;
 	padding-left: 20px;
+}
 
-	/* ---------- REFERENCES */
+/* ---------- REFERENCES */
 
-	#reference_area {
-		height: 100px;
-	}
+#reference_area {
+	height: 100px;
+}
