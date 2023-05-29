@@ -69,8 +69,26 @@
 	margin-right: 20px;
 }
 
-/* ---------- REFERENCES */
+/* ---------- ACHIVEMENTS */
 
-#reference_area {
-	height: 100px;
+#achievements_area {
+	height: 150px;
 }
+
+.text_achievements_area {
+	float: left;
+	width: 600px;
+}
+
+.note_achievements_area {
+	float: left;
+	display: flex;
+	width: 600px;
+	height: 30px;
+	padding-left: 20px;
+
+	/* ---------- REFERENCES */
+
+	#reference_area {
+		height: 100px;
+	}
