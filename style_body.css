@@ -4,17 +4,19 @@
 		url('font/stay_classy_sldt-webfont.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
-
 }
 
 /* ---------- BODY */
 body {
 	font-family: Verdana;
 	background: radial-gradient(#ffffff, #353535);
+}
+
+#main_area {
 	box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 	/* pour centrer tout le site */
 	margin: auto;
-	margin-top: 100px;
+	margin-top: 0px;
 	margin-bottom: 100px;
 	height: 1800px;
 	width: 1080px;
@@ -33,6 +35,10 @@ body {
 /* ---------- language */
 #language_area {
 	text-align: center;
+}
+
+header {
+	margin-top: 80px;
 }
 
 header li {
