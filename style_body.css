@@ -30,6 +30,24 @@ body {
 	width: 1080px;
 }
 
+/* ---------- language */
+#language_area {
+	text-align: center;
+}
+
+header li {
+	text-decoration: none;
+	display: inline;
+	list-style-type: none;
+	margin-right: 10px;
+	/* Ajoute un espace entre les puces */
+}
+
+header a {
+	text-decoration: none;
+	color: black;
+}
+
 /* ---------- LEFT AREA */
 #left_area {
 	float: left;
