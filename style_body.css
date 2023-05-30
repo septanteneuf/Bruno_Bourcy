@@ -109,13 +109,7 @@ header a {
 .title_volunteering,
 .title_education,
 .title_experiences,
-.title_skills {
-	font-size: 13pt;
-	font-weight: bold;
-	margin: 0;
-	margin-bottom: 2px;
-}
-
+.title_skills,
 .title_languages {
 	font-size: 13pt;
 	font-weight: bold;
