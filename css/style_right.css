@@ -1,0 +1,101 @@
+/* ---------- SHORT DESCRIPTION */
+
+#description_area {
+	height: 60px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+/* ---------- PROF SKILLS */
+
+#skills_area {
+	height: 150px;
+}
+
+.text_skills_area {
+	float: left;
+	width: 600px;
+}
+
+.note_skills_area {
+	float: left;
+	display: flex;
+	width: 600px;
+	height: 30px;
+	padding-left: 20px;
+}
+
+/* ---------- PROFESSIONAL EXPERIENCES + EDUCATION */
+
+#experience_area {
+	height: 350px;
+}
+
+#education_area {
+	height: 360px;
+}
+
+.left_exp_area,
+.left_edu_area {
+	float: left;
+	width: 270px;
+	height: 60px;
+	padding-left: 20px;
+}
+
+.right_exp_area,
+.right_edu_area {
+	float: left;
+	width: 380px;
+	height: 60px;
+	margin-right: 20px;
+}
+
+/* ---------- LANGUAGES */
+
+#languages_area {
+	height: 130px;
+}
+
+.left_languages_area {
+	float: left;
+	width: 120px;
+	height: 60px;
+	padding-left: 20px;
+}
+
+.right_languages_area {
+	float: left;
+	margin-right: 20px;
+}
+
+/* ---------- ACHIVEMENTS */
+
+#achievements_area {
+	height: 200px;
+}
+
+.text_achievements_area a {
+	text-decoration: none;
+	color: black;
+}
+
+.text_achievements_area {
+	float: left;
+	width: 600px;
+
+}
+
+.note_achievements_area {
+	float: left;
+	display: flex;
+	width: 600px;
+	height: 30px;
+	padding-left: 20px;
+}
+
+/* ---------- REFERENCES */
+
+#reference_area {
+	height: 100px;
+}
